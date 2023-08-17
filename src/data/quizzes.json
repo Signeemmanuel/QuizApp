@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "src/assets/images/math_image.jpg",
+    "image": "/src/assets/images/math_image.jpg",
     "name": "Math",
     "questions": [
       {
@@ -128,7 +128,7 @@
   },
   {
     "id": 2,
-    "image": "src/assets/images/chemistry_image.jpg",
+    "image": "/src/assets/images/chemistry_image.jpg",
     "name": "Chemistry",
     "questions": [
       {
@@ -260,7 +260,7 @@
   },
   {
     "id": 3,
-    "image": "src/assets/images/history_image.jpg",
+    "image": "/src/assets/images/history_image.jpg",
     "name": "History",
     "questions": [
       {
@@ -437,7 +437,7 @@
   },
   {
     "id": 4,
-    "image": "src/assets/images/biology_image.jpg",
+    "image": "/src/assets/images/biology_image.jpg",
     "name": "Biology",
     "questions": [
       {
@@ -604,7 +604,7 @@
   },
   {
     "id": 5,
-    "image": "src/assets/images/physics_image.jpg",
+    "image": "/src/assets/images/physics_image.jpg",
     "name": "Physics",
     "questions": [
       {
@@ -786,7 +786,7 @@
   },
   {
     "id": 6,
-    "image": "src/assets/images/psychology_image.jpeg",
+    "image": "/src/assets/images/psychology_image.jpeg",
     "name": "Psychology",
     "questions": [
       {

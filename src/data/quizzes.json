@@ -1,0 +1,989 @@
+[
+  {
+    "id": 1,
+    "image": "src/assets/images/math_image.jpg",
+    "name": "Math",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the value of 3 squared?",
+        "options": ["6", "9", "12", "15"],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "text": "Solve the equation: 2x - 8 = 10",
+        "options": ["x = 9", "x = 8", "x = 10", "x = 12"],
+        "answer": 0
+      },
+      {
+        "id": 3,
+        "text": "What is the result of 12 divided by 4?",
+        "options": ["2", "3", "4", "6"],
+        "answer": 1
+      },
+      {
+        "id": 4,
+        "text": "What is the value of 'y' in the equation 5y + 7 = 22?",
+        "options": ["3", "4", "5", "6"],
+        "answer": 0
+      },
+      {
+        "id": 5,
+        "text": "What is the square root of 81?",
+        "options": ["9", "7", "5", "3"],
+        "answer": 0
+      },
+      {
+        "id": 6,
+        "text": "Simplify the expression: 3 * (4 + 5)",
+        "options": ["7", "18", "27", "45"],
+        "answer": 2
+      },
+      {
+        "id": 7,
+        "text": "What is the product of 9 and 7?",
+        "options": ["15", "56", "63", "72"],
+        "answer": 2
+      },
+      {
+        "id": 8,
+        "text": "What is the next number in the sequence: 1, 4, 9, 16, ...?",
+        "options": ["21", "24", "25", "28"],
+        "answer": 2
+      },
+      {
+        "id": 9,
+        "text": "What is the value of 10 to the power of 2?",
+        "options": ["10", "20", "100", "1000"],
+        "answer": 2
+      },
+      {
+        "id": 10,
+        "text": "If a = 4 and b = 7, what is the value of a * b?",
+        "options": ["11", "21", "28", "32"],
+        "answer": 2
+      },
+      {
+        "id": 11,
+        "text": "What is the value of π (pi) to two decimal places?",
+        "options": ["3.14", "2.71", "1.62", "4.20"],
+        "answer": 0
+      },
+      {
+        "id": 12,
+        "text": "What is the square root of 64?",
+        "options": ["4", "8", "16", "32"],
+        "answer": 1
+      },
+      {
+        "id": 13,
+        "text": "Simplify the expression: 3 + 4 * 2",
+        "options": ["14", "11", "10", "9"],
+        "answer": 1
+      },
+      {
+        "id": 14,
+        "text": "What is the result of 5 squared?",
+        "options": ["25", "10", "125", "5"],
+        "answer": 0
+      },
+      {
+        "id": 15,
+        "text": "What is the value of 'x' in the equation 2x + 5 = 15?",
+        "options": ["4", "5", "8", "10"],
+        "answer": 1
+      },
+      {
+        "id": 16,
+        "text": "What is the product of 7 and 9?",
+        "options": ["56", "63", "72", "81"],
+        "answer": 1
+      },
+      {
+        "id": 17,
+        "text": "What is the result of (4 + 3) * 2?",
+        "options": ["8", "14", "16", "18"],
+        "answer": 3
+      },
+      {
+        "id": 18,
+        "text": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
+        "options": ["9", "10", "11", "12"],
+        "answer": 1
+      },
+      {
+        "id": 19,
+        "text": "What is the value of 2 to the power of 3?",
+        "options": ["2", "4", "6", "8"],
+        "answer": 3
+      },
+      {
+        "id": 20,
+        "text": "If a = 5 and b = 3, what is the value of a + b?",
+        "options": ["7", "8", "9", "10"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "src/assets/images/chemistry_image.jpg",
+    "name": "Chemistry",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the atomic number of oxygen?",
+        "options": ["6", "8", "12", "16"],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "text": "Which element has the symbol 'Na'?",
+        "options": ["Nitrogen", "Sodium", "Nickel", "Neon"],
+        "answer": 1
+      },
+      {
+        "id": 3,
+        "text": "What is the chemical formula for water?",
+        "options": ["H2O2", "CO2", "HCl", "H2O"],
+        "answer": 3
+      },
+      {
+        "id": 4,
+        "text": "What is the pH value of a neutral solution?",
+        "options": ["1", "7", "10", "14"],
+        "answer": 1
+      },
+      {
+        "id": 5,
+        "text": "Which gas is responsible for the smell of rotten eggs?",
+        "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Hydrogen sulfide"],
+        "answer": 3
+      },
+      {
+        "id": 6,
+        "text": "What is the chemical symbol for silver?",
+        "options": ["Si", "Sr", "Ag", "Au"],
+        "answer": 2
+      },
+      {
+        "id": 7,
+        "text": "What is the process called when a gas turns into a liquid?",
+        "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+        "answer": 0
+      },
+      {
+        "id": 8,
+        "text": "What is the lightest element in the periodic table?",
+        "options": ["Hydrogen", "Helium", "Lithium", "Boron"],
+        "answer": 0
+      },
+      {
+        "id": 9,
+        "text": "What is the chemical formula for methane?",
+        "options": ["CH4", "CO2", "NH3", "H2O"],
+        "answer": 0
+      },
+      {
+        "id": 10,
+        "text": "Which subatomic particle has a positive charge?",
+        "options": ["Proton", "Electron", "Neutron", "Photon"],
+        "answer": 0
+      },
+      {
+        "id": 11,
+        "text": "What is the unit of measurement for the amount of a substance?",
+        "options": ["Mole", "Gram", "Liter", "Celsius"],
+        "answer": 0
+      },
+      {
+        "id": 12,
+        "text": "What is the process by which a solid changes directly into a gas called?",
+        "options": ["Condensation", "Sublimation", "Evaporation", "Melting"],
+        "answer": 1
+      },
+      {
+        "id": 13,
+        "text": "Which element is a noble gas?",
+        "options": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+        "answer": 2
+      },
+      {
+        "id": 14,
+        "text": "What is the chemical symbol for iron?",
+        "options": ["Fe", "I", "Ir", "In"],
+        "answer": 0
+      },
+      {
+        "id": 15,
+        "text": "Which type of bond shares electrons between atoms?",
+        "options": [
+          "Ionic bond",
+          "Covalent bond",
+          "Metallic bond",
+          "Hydrogen bond"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 16,
+        "text": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "H2O", "CO2", "CaCO3"],
+        "answer": 0
+      },
+      {
+        "id": 17,
+        "text": "What is the process by which a liquid changes into a gas called?",
+        "options": ["Sublimation", "Condensation", "Evaporation", "Freezing"],
+        "answer": 2
+      },
+      {
+        "id": 18,
+        "text": "Which element is a common constituent of organic compounds?",
+        "options": ["Iron", "Carbon", "Sodium", "Calcium"],
+        "answer": 1
+      },
+      {
+        "id": 19,
+        "text": "What is the chemical symbol for potassium?",
+        "options": ["K", "P", "Kr", "Ki"],
+        "answer": 0
+      },
+      {
+        "id": 20,
+        "text": "Which type of reaction involves the combination of elements to form a new compound?",
+        "options": ["Decomposition", "Combustion", "Synthesis", "Redox"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "src/assets/images/history_image.jpg",
+    "name": "History",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Who was the first President of Cameroon?",
+        "options": [
+          "Ahmadou Ahidjo",
+          "Paul Biya",
+          "Amadou Ahidjo",
+          "John Ngu Foncha"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 2,
+        "text": "When did Cameroon gain independence from colonial rule?",
+        "options": ["1958", "1960", "1961", "1972"],
+        "answer": 1
+      },
+      {
+        "id": 3,
+        "text": "Which European power colonized Cameroon?",
+        "options": ["France", "Spain", "Germany", "Portugal"],
+        "answer": 2
+      },
+      {
+        "id": 4,
+        "text": "Who led the struggle for independence in British Southern Cameroon?",
+        "options": [
+          "Ruben Um Nyobé",
+          "Félix-Roland Moumié",
+          "John Ngu Foncha",
+          "E. M. L. Endeley"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 5,
+        "text": "Who was Cameroon's first Prime Minister?",
+        "options": [
+          "Ahmadou Ahidjo",
+          "John Ngu Foncha",
+          "Paul Biya",
+          "Amadou Ahidjo"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 6,
+        "text": "Which ethnic group is the largest in Cameroon?",
+        "options": ["Bamileke", "Beti-Pahuin", "Fulani", "Bamoun"],
+        "answer": 0
+      },
+      {
+        "id": 7,
+        "text": "Which city is the economic capital of Cameroon?",
+        "options": ["Yaoundé", "Bamenda", "Garoua", "Douala"],
+        "answer": 3
+      },
+      {
+        "id": 8,
+        "text": "Who was the leader of the Union des Populations du Cameroun (UPC) during the struggle for independence?",
+        "options": [
+          "Ruben Um Nyobé",
+          "Ahmadou Ahidjo",
+          "Félix-Roland Moumié",
+          "John Ngu Foncha"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 9,
+        "text": "What was the name of the German colony that included present-day Cameroon?",
+        "options": [
+          "Kamerun",
+          "Togoland",
+          "German East Africa",
+          "German Southwest Africa"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 10,
+        "text": "What was the name of the political party founded by Ahmadou Ahidjo?",
+        "options": [
+          "Cameroon People's Democratic Movement (CPDM)",
+          "Cameroon National Union (CNU)",
+          "Union des Populations du Cameroun (UPC)",
+          "Social Democratic Front (SDF)"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 11,
+        "text": "Which year did Cameroon become a unitary state?",
+        "options": ["1960", "1961", "1972", "1984"],
+        "answer": 2
+      },
+      {
+        "id": 12,
+        "text": "Who is the current President of Cameroon?",
+        "options": [
+          "Ahmadou Ahidjo",
+          "Paul Biya",
+          "Samuel Eto'o",
+          "John Fru Ndi"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 13,
+        "text": "Which African country shares its longest border with Cameroon?",
+        "options": ["Nigeria", "Chad", "Gabon", "Equatorial Guinea"],
+        "answer": 0
+      },
+      {
+        "id": 14,
+        "text": "What is the official language of Cameroon?",
+        "options": ["English", "French", "German", "Portuguese"],
+        "answer": 1
+      },
+      {
+        "id": 15,
+        "text": "Who was the leader of the Social Democratic Front (SDF) party in Cameroon?",
+        "options": [
+          "Ruben Um Nyobé",
+          "Paul Biya",
+          "Félix-Roland Moumié",
+          "John Fru Ndi"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 16,
+        "text": "Which region of Cameroon is predominantly English-speaking?",
+        "options": ["North", "South", "West", "East"],
+        "answer": 2
+      },
+      {
+        "id": 17,
+        "text": "Who won the first multiparty presidential elections in Cameroon in 1992?",
+        "options": [
+          "Ahmadou Ahidjo",
+          "Paul Biya",
+          "John Fru Ndi",
+          "Samuel Eto'o"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 18,
+        "text": "Which natural resource is a major contributor to Cameroon's economy?",
+        "options": ["Gold", "Diamonds", "Oil", "Uranium"],
+        "answer": 2
+      },
+      {
+        "id": 19,
+        "text": "Which city hosted the 2019 Africa Cup of Nations final in Cameroon?",
+        "options": ["Yaoundé", "Limbe", "Bafoussam", "Douala"],
+        "answer": 3
+      },
+      {
+        "id": 4,
+        "text": "What was the name of the armed conflict between Cameroon's government and anglophone separatists?",
+        "options": [
+          "Bamileke Uprising",
+          "Biafra War",
+          "Anglophone Crisis",
+          "Mungo River Clash"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "src/assets/images/biology_image.jpg",
+    "name": "Biology",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the basic unit of life?",
+        "options": ["Cell", "Atom", "Molecule", "Organ"],
+        "answer": 0
+      },
+      {
+        "id": 2,
+        "text": "Which organelle is responsible for energy production in a cell?",
+        "options": [
+          "Mitochondria",
+          "Nucleus",
+          "Endoplasmic reticulum",
+          "Golgi apparatus"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 3,
+        "text": "Which of the following is responsible for carrying oxygen in the blood?",
+        "options": [
+          "Red blood cells",
+          "White blood cells",
+          "Platelets",
+          "Plasma"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 4,
+        "text": "What is the largest organ in the human body?",
+        "options": ["Liver", "Brain", "Skin", "Lungs"],
+        "answer": 2
+      },
+      {
+        "id": 5,
+        "text": "Which of the following is not a macromolecule?",
+        "options": ["Protein", "Lipid", "Carbohydrate", "Enzyme"],
+        "answer": 3
+      },
+      {
+        "id": 6,
+        "text": "Which process allows plants to convert sunlight into chemical energy?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Fermentation",
+          "Transpiration"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 7,
+        "text": "What is the process by which cells divide to form new cells?",
+        "options": ["Mitosis", "Meiosis", "Fertilization", "Differentiation"],
+        "answer": 0
+      },
+      {
+        "id": 8,
+        "text": "Which of the following is a greenhouse gas?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Argon"],
+        "answer": 0
+      },
+      {
+        "id": 9,
+        "text": "Which type of tissue connects bones to other bones in the human body?",
+        "options": [
+          "Muscle tissue",
+          "Nervous tissue",
+          "Epithelial tissue",
+          "Connective tissue"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 10,
+        "text": "What is the process by which plants release water vapor through their leaves?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Fermentation",
+          "Transpiration"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 11,
+        "text": "Which of the following is responsible for storing genetic information in cells?",
+        "options": ["Ribosome", "Lysosome", "Nucleus", "Centriole"],
+        "answer": 2
+      },
+      {
+        "id": 12,
+        "text": "Which of the following is the primary function of the respiratory system?",
+        "options": [
+          "Transporting oxygen",
+          "Pumping blood",
+          "Digesting food",
+          "Filtering waste"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 13,
+        "text": "Which of the following is the largest part of the brain?",
+        "options": ["Cerebrum", "Cerebellum", "Brainstem", "Hypothalamus"],
+        "answer": 0
+      },
+      {
+        "text": "Which of the following is responsible for breaking down food in the stomach?",
+        "options": ["Enzymes", "Hormones", "Acids", "Bile"],
+        "answer": 2
+      },
+      {
+        "id": 14,
+        "text": "What is the process by which water moves across a semipermeable membrane?",
+        "options": ["Osmosis", "Diffusion", "Active transport", "Endocytosis"],
+        "answer": 0
+      },
+      {
+        "id": 15,
+        "text": "Which of the following is responsible for carrying genetic information in cells?",
+        "options": ["DNA", "RNA", "Protein", "Lipid"],
+        "answer": 0
+      },
+      {
+        "id": 16,
+        "text": "What is the smallest unit of an element that retains its chemical properties?",
+        "options": ["Atom", "Molecule", "Cell", "Nucleus"],
+        "answer": 0
+      },
+      {
+        "id": 17,
+        "text": "Which of the following is responsible for producing insulin in the human body?",
+        "options": ["Pancreas", "Liver", "Kidney", "Stomach"],
+        "answer": 0
+      },
+      {
+        "id": 18,
+        "text": "Which of the following is responsible for carrying out protein synthesis in cells?",
+        "options": ["Ribosome", "Lysosome", "Nucleus", "Golgi apparatus"],
+        "answer": 0
+      },
+      {
+        "id": 19,
+        "text": "What is the process by which plants respond to light?",
+        "options": [
+          "Phototropism",
+          "Geotropism",
+          "Thigmotropism",
+          "Hydrotropism"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 20,
+        "text": "Which of the following is responsible for transmitting signals in the nervous system?",
+        "options": ["Neurons", "Glial cells", "Red blood cells", "Platelets"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "src/assets/images/physics_image.jpg",
+    "name": "Physics",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Which of the following is a fundamental force of nature?",
+        "options": ["Gravity", "Friction", "Magnetism", "Tension"],
+        "answer": 0
+      },
+      {
+        "id": 2,
+        "text": "What is the SI unit of electric current?",
+        "options": ["Volt", "Ohm", "Ampere", "Watt"],
+        "answer": 2
+      },
+      {
+        "id": 3,
+        "text": "Which type of energy is associated with motion?",
+        "options": [
+          "Potential energy",
+          "Kinetic energy",
+          "Thermal energy",
+          "Chemical energy"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 4,
+        "text": "Which law states that for every action, there is an equal and opposite reaction?",
+        "options": [
+          "Newton's Third Law",
+          "Newton's First Law",
+          "Ohm's Law",
+          "Boyle's Law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 5,
+        "text": "What is the speed of light in a vacuum?",
+        "options": [
+          "299,792,458 meters per second",
+          "343 meters per second",
+          "30,000 kilometers per hour",
+          "186,282 miles per second"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 6,
+        "text": "Which of the following is an example of a vector quantity?",
+        "options": ["Temperature", "Energy", "Pressure", "Velocity"],
+        "answer": 3
+      },
+      {
+        "id": 7,
+        "text": "Which law describes the relationship between the pressure and volume of a gas at constant temperature?",
+        "options": [
+          "Charles's Law",
+          "Ohm's Law",
+          "Boyle's Law",
+          "Newton's Law of Universal Gravitation"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 8,
+        "text": "What is the SI unit of force?",
+        "options": ["Joule", "Watt", "Pascal", "Newton"],
+        "answer": 3
+      },
+      {
+        "id": 9,
+        "text": "Which type of lens is thicker at the center than at the edges?",
+        "options": [
+          "Converging lens",
+          "Diverging lens",
+          "Convex lens",
+          "Concave lens"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 10,
+        "text": "Which law states that the total energy of an isolated system remains constant over time?",
+        "options": [
+          "Law of Conservation of Energy",
+          "Law of Conservation of Momentum",
+          "Law of Conservation of Mass",
+          "Law of Conservation of Charge"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 11,
+        "text": "What is the formula to calculate electric power?",
+        "options": [
+          "Power = Voltage × Current",
+          "Power = Voltage / Current",
+          "Power = Current / Voltage",
+          "Power = Current × Voltage"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 12,
+        "text": "Which of the following is the SI unit of pressure?",
+        "options": ["Pascal", "Ohm", "Hertz", "Coulomb"],
+        "answer": 0
+      },
+      {
+        "id": 13,
+        "text": "Which law describes the relationship between the volume and temperature of a gas at constant pressure?",
+        "options": [
+          "Boyle's Law",
+          "Charles's Law",
+          "Ohm's Law",
+          "Newton's Law of Universal Gravitation"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 14,
+        "text": "What is the formula to calculate the force acting on a charged particle in a magnetic field?",
+        "options": [
+          "Force = Charge × Magnetic field strength × Velocity",
+          "Force = Mass × Acceleration",
+          "Force = Work / Distance",
+          "Force = Pressure × Area"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 15,
+        "text": "Which of the following is an example of a scalar quantity?",
+        "options": ["Velocity", "Force", "Acceleration", "Temperature"],
+        "answer": 3
+      },
+      {
+        "id": 16,
+        "text": "What is the SI unit of frequency?",
+        "options": ["Watt", "Hertz", "Joule", "Coulomb"],
+        "answer": 1
+      },
+      {
+        "id": 17,
+        "text": "Which law describes the relationship between the force, mass, and acceleration of an object?",
+        "options": [
+          "Newton's Second Law",
+          "Newton's First Law",
+          "Ohm's Law",
+          "Boyle's Law"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 18,
+        "text": "What is the SI unit of electric charge?",
+        "options": ["Ampere", "Coulomb", "Volt", "Ohm"],
+        "answer": 1
+      },
+      {
+        "id": 19,
+        "text": "What is the SI unit of energy?",
+        "options": ["Watt", "Newton", "Joule", "Pascal"],
+        "answer": 2
+      },
+      {
+        "id": 20,
+        "text": "Which law states that every object persists in its state of rest or uniform motion unless acted upon by an external force?",
+        "options": [
+          "Newton's First Law of Motion",
+          "Newton's Second Law of Motion",
+          "Newton's Third Law of Motion",
+          "Law of Conservation of Energy"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "src/assets/images/psychology_image.jpeg",
+    "name": "Psychology",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the definition of psychology?",
+        "options": [
+          "The study of human behavior",
+          "The study of the mind",
+          "The study of mental disorders",
+          "The study of animal behavior"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 2,
+        "text": "Who is considered the father of modern psychology?",
+        "options": [
+          "Sigmund Freud",
+          "Ivan Pavlov",
+          "B.F. Skinner",
+          "Wilhelm Wundt"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 3,
+        "text": "What is the process of encoding, storing, and retrieving information in memory called?",
+        "options": ["Learning", "Attention", "Perception", "Memory"],
+        "answer": 3
+      },
+      {
+        "id": 4,
+        "text": "Which of the following is an example of an anxiety disorder?",
+        "options": [
+          "Obsessive-Compulsive Disorder (OCD)",
+          "Schizophrenia",
+          "Bipolar Disorder",
+          "Attention-Deficit/Hyperactivity Disorder (ADHD)"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 5,
+        "text": "What is the concept of unconscious desires and conflicts influencing behavior called?",
+        "options": [
+          "Operant conditioning",
+          "Cognitive dissonance",
+          "Social facilitation",
+          "Psychodynamic theory"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 6,
+        "text": "Which perspective in psychology focuses on how people think, perceive, and process information?",
+        "options": [
+          "Cognitive perspective",
+          "Behavioral perspective",
+          "Biological perspective",
+          "Humanistic perspective"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 7,
+        "text": "What is the term for a sudden and often inexplicable loss of memory or identity?",
+        "options": ["Amnesia", "Delusion", "Hallucination", "Dissociation"],
+        "answer": 0
+      },
+      {
+        "id": 8,
+        "text": "According to Maslow's hierarchy of needs, which needs must be met before higher-level needs can be addressed?",
+        "options": [
+          "Physiological needs",
+          "Safety needs",
+          "Belongingness and love needs",
+          "Esteem needs"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 9,
+        "text": "What is the term for a mental shortcut or rule of thumb that helps in making judgments and decisions?",
+        "options": [
+          "Confirmation bias",
+          "Heuristics",
+          "Operant conditioning",
+          "Classical conditioning"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 10,
+        "text": "Which of the following is a symptom of major depressive disorder?",
+        "options": [
+          "Delusions",
+          "Manic episodes",
+          "Excessive worry",
+          "Persistent sadness"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 11,
+        "text": "What is the term for a type of learning that occurs through observing and imitating others?",
+        "options": [
+          "Classical conditioning",
+          "Operant conditioning",
+          "Social learning",
+          "Cognitive learning"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 12,
+        "text": "Which branch of psychology focuses on understanding individual differences and the uniqueness of each person?",
+        "options": [
+          "Behavioral psychology",
+          "Cognitive psychology",
+          "Humanistic psychology",
+          "Personality psychology"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 13,
+        "text": "What is the term for a state of physical and psychological arousal produced by a stressor?",
+        "options": ["Anxiety", "Depression", "Stress", "Psychosis"],
+        "answer": 2
+      },
+      {
+        "id": 14,
+        "text": "Which of the following is a defense mechanism described by Freud?",
+        "options": [
+          "Projection",
+          "Self-actualization",
+          "Inferiority complex",
+          "Operant conditioning"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 15,
+        "text": "What is the term for a persistent, irrational fear of a specific object, situation, or activity?",
+        "options": ["Phobia", "Delusion", "Hallucination", "Compulsion"],
+        "answer": 0
+      },
+      {
+        "id": 16,
+        "text": "What is the term for the process by which we organize and interpret sensory information?",
+        "options": ["Perception", "Attention", "Memory", "Learning"],
+        "answer": 0
+      },
+      {
+        "id": 17,
+        "text": "Which theory of personality suggests that behavior is influenced by unconscious desires and conflicts?",
+        "options": [
+          "Behaviorism",
+          "Humanism",
+          "Cognitive theory",
+          "Psychodynamic theory"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 18,
+        "text": "What is the term for the tendency to attribute our own behavior to external factors and others' behavior to internal factors?",
+        "options": [
+          "Fundamental attribution error",
+          "Self-serving bias",
+          "Cognitive dissonance",
+          "Confirmation bias"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 19,
+        "text": "Which of the following is a symptom of schizophrenia?",
+        "options": [
+          "Multiple personalities",
+          "Hallucinations",
+          "Panic attacks",
+          "Obsessions and compulsions"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 20,
+        "text": "Which perspective in psychology emphasizes the importance of unconscious processes and early childhood experiences?",
+        "options": [
+          "Cognitive perspective",
+          "Behavioral perspective",
+          "Humanistic perspective",
+          "Psychoanalytic perspective"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+]
